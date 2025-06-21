@@ -1,0 +1,34 @@
+public class Method02 {
+	public static void main(String[] args) {
+		//
+		int [][] map = {{0,0,1}, {1,1,1}, {1,1,3}};
+		MyTools tool = new MyTools();
+
+		tool.print2DArray(map)
+
+
+
+	}
+}
+
+class MyTools {
+	public void print2DArray(int[][] map) {
+
+		for (int i = 0; i < map.length; ++i) {
+			for (int j = 0; j < map[i].length; ++j) {
+				System.out.print(map[i][j] + " ");
+			}
+			System.out.println();
+		}
+
+	}
+}
+
+
+class AA {
+	public void f1() {
+		// public void g1 {
+		// 	System.out.println("nested methods");
+		// }
+	}
+}

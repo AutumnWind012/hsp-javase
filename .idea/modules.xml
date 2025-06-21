@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter-10/Chapter-10.iml" filepath="$PROJECT_DIR$/Chapter-10/Chapter-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-11/Chapter-11.iml" filepath="$PROJECT_DIR$/Chapter-11/Chapter-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-12/Chapter-12.iml" filepath="$PROJECT_DIR$/Chapter-12/Chapter-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-15/Chapter-15.iml" filepath="$PROJECT_DIR$/Chapter-15/Chapter-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-18/Chapter-18.iml" filepath="$PROJECT_DIR$/Chapter-18/Chapter-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-19/Chapter-19.iml" filepath="$PROJECT_DIR$/Chapter-19/Chapter-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-22/Chapter-22.iml" filepath="$PROJECT_DIR$/Chapter-22/Chapter-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-6/Chapter-6.iml" filepath="$PROJECT_DIR$/Chapter-6/Chapter-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-7/Chapter-7.iml" filepath="$PROJECT_DIR$/Chapter-7/Chapter-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-8/Chapter-8.iml" filepath="$PROJECT_DIR$/Chapter-8/Chapter-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-9/Chapter-9.iml" filepath="$PROJECT_DIR$/Chapter-9/Chapter-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HSP-JAVASE.iml" filepath="$PROJECT_DIR$/HSP-JAVASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HSP-JAVASE-STAGE2.iml" filepath="$PROJECT_DIR$/HSP-JAVASE-STAGE2.iml" />
+    </modules>
+  </component>
+</project>
