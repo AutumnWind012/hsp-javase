@@ -1,35 +1,49 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+# -------------------------
+# IntelliJ / JetBrains
+# -------------------------
+# Project files (IDE-managed)
+/.idea/
+/*.iml
+*.iws
+*.ipr
+*.iml
+/.idea
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+# User-specific or high-churn IDEA files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Editor-based HTTP client
+.idea/httpRequests
+http-client.private.env.json
 
-### VS Code ###
-.vscode/
+# -------------------------
+# Build outputs
+# -------------------------
+/out/
+/build/
+/target/
+/bin/
 
-### Mac OS ###
-.DS_Store
-
-
-### misc ###
-/Sublime
+# Compiled class files
 *.class
-.idea
+
+# -------------------------
+# Gradle & Maven
+# -------------------------
+.gradle/
+!/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+
+# -------------------------
+# Misc / OS
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# Logs, temp files, editors
+*.log
+*.tmp
+*.swp
