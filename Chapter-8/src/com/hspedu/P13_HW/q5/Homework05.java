@@ -1,6 +1,6 @@
 package com.hspedu.P13_HW.q5;
 
-public class Question5 {
+public class Homework05 {
     public static void main(String[] args) {
         Teacher teacher = new Teacher("顺平", 6000);
         teacher.setClassHours(800);
