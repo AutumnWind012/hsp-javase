@@ -1,4 +1,4 @@
-package com.hspedu.P13_HW.p13;
+package com.hspedu.P13_HW.q13;
 
 public class Homework13 {
     public static void main(String[] args) {
