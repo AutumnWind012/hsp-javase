@@ -1,8 +1,8 @@
-package com.hspedu.P01_Exception;
+package com.hspedu.P02_tryCatch;
 
 public class TryCatch {
     public static void main(String[] args) {
-        test();
+        System.out.println("test方法返回 " + test2());
     }
 
     public static void tryCatch01() {
@@ -75,10 +75,21 @@ public class TryCatch {
     }
 
     public static int test() {
+        int i = 1;
+        try {
+            return i;
+        } finally {
+            ++i;
+            System.out.println("i=" + i);
+        }
+    }
+
+    static int test2() {
         try {
             return 1;
         } finally {
-            System.out.println("finally 执行");
+            // 不推荐
+            return 2;
         }
     }
 }
